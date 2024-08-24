@@ -10,9 +10,9 @@ Explore the **Numpy** tutorial notebook to learn about numerical computing in Py
 - Mathematical operations
 - Array manipulation
 - And more...
-otebook links above to open them in Jupyter Notebook or Jupyter Lab.
 
 ### Requirements
 ```bash
 pip install numpy
+
 

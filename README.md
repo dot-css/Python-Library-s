@@ -14,5 +14,3 @@ Explore the **Numpy** tutorial notebook to learn about numerical computing in Py
 ### Requirements
 ```bash
 pip install numpy
-
-
